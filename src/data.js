@@ -27,6 +27,20 @@ const reviews = [
     image: "https://course-api.com/images/people/person-3.jpeg",
     text: "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
   },
+  {
+    id: 5,
+    name: "bennie litton",
+    job: "ceo",
+    image: "https://course-api.com/images/people/person-4.jpeg",
+    text: "Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.",
+  },
+  {
+    id: 6,
+    name: "luna gonzales",
+    job: "sales exec",
+    image: "https://course-api.com/images/people/person-2.jpeg",
+    text: "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
+  },
 ];
 
 export default reviews;
